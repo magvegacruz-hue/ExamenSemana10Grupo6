@@ -1,0 +1,14 @@
+C:\Programacion\ExamenSegundoCorteGrupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.exe
+C:\Programacion\ExamenSegundoCorteGrupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.deps.json
+C:\Programacion\ExamenSegundoCorteGrupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.runtimeconfig.json
+C:\Programacion\ExamenSegundoCorteGrupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.dll
+C:\Programacion\ExamenSegundoCorteGrupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.pdb
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.AssemblyInfoInputs.cache
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.AssemblyInfo.cs
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.csproj.CoreCompileInputs.cache
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.dll
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\refint\ExamenSegundoCorteGrupo6.dll
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.pdb
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.genruntimeconfig.cache
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ref\ExamenSegundoCorteGrupo6.dll
