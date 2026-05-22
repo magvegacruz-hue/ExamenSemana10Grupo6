@@ -12,3 +12,18 @@ C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\refint\ExamenSegundoC
 C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.pdb
 C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.genruntimeconfig.cache
 C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ref\ExamenSegundoCorteGrupo6.dll
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.exe
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.deps.json
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.runtimeconfig.json
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.dll
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\bin\Debug\net10.0\ExamenSegundoCorteGrupo6.pdb
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.AssemblyInfoInputs.cache
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.AssemblyInfo.cs
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.sourcelink.json
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.dll
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\refint\ExamenSegundoCorteGrupo6.dll
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.pdb
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.genruntimeconfig.cache
+C:\Users\Mr. Mojica\Desktop\Clases UAM\Clases de programacion\C#\RepoMiguel\ExamenSemana10Grupo6\obj\Debug\net10.0\ref\ExamenSegundoCorteGrupo6.dll
