@@ -12,3 +12,4 @@ C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\refint\ExamenSegundoC
 C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.pdb
 C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.genruntimeconfig.cache
 C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ref\ExamenSegundoCorteGrupo6.dll
+C:\Programacion\ExamenSegundoCorteGrupo6\obj\Debug\net10.0\ExamenSegundoCorteGrupo6.sourcelink.json
