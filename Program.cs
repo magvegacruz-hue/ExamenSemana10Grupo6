@@ -1,4 +1,5 @@
 ﻿//Tienda de tecnologia 
+//Estudiante21 Kenneth, registrar producta
 string[] productos = new string [10];
 double[] precioProducto = new double [10];
 int[] cantidadVendida = new int [10];
@@ -9,6 +10,7 @@ double totalFinal=0;
 int cantidadMax=0;
 string productoMax=" ";
 double promedio=0;
+//Parte2 MarceloMojica
 System.Console.WriteLine("Bienvenido a la tienda masaya");
 System.Console.WriteLine("A continuacion, se desplegara un menu de opciones.");
 do
@@ -31,7 +33,7 @@ catch
     System.Console.WriteLine("Error, introduzca un numero");
     Console.ResetColor();
 }
-
+//Miguel, parte 3 y 4
 switch(opcion)
 {
     case 1:
