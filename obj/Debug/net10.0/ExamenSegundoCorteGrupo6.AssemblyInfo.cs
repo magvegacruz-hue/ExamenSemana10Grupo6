@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamenSegundoCorteGrupo6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6398a0fef26fa62f03068bd4672f5abe8be5a5b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3759f5f85d791ed8fcb1fb96fe82a78fd59b168f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamenSegundoCorteGrupo6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamenSegundoCorteGrupo6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
